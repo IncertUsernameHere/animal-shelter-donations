@@ -21,7 +21,7 @@ window.onload = function() {
         activate(0, listLinks);
       } else if (scrollPosition > 169 & scrollPosition < 825) {
         activate(1, listLinks);
-      } else if (scrollPosition > 824 & scrollPosition < 1040) {
+      } else if (scrollPosition > 824 & scrollPosition < 1000) {
         activate(2, listLinks);
       } else {
         activate(3, listLinks);
